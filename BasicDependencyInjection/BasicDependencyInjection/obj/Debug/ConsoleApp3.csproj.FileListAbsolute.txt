@@ -1,0 +1,13 @@
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Autofac.dll
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Autofac.pdb
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Autofac.xml
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Ninject.dll
+C:\Users\iarna\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Ninject.xml
